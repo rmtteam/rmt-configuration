@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <doc>
   <header>
-    <name>TG800-port-02</name>
+    <name>TGX00-port-XX</name>
     <time>2023-05-27T15:54:37.1800379Z</time>
-    <template>GenericVoIPProvider.pv.xml</template>
+    <template>yeastar.pv.xml</template>
     <type>gateway-template</type>
   </header>
   <data>
     <device>
-      <field name="Name">TG800-port-02</field>
+      <field name="Name">TGX00-port-XX</field>
       <type>provider</type>
       <manufacturer></manufacturer>
       <model>provider</model>
